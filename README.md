@@ -131,3 +131,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 - [Dart Language Tour](https://dart.dev/language)
 - [Material 3 Design](https://m3.material.io/)
 - [pub.dev Packages](https://pub.dev/)
+
+## 🧑‍💻 Author
+
+**SneakyShadow**
