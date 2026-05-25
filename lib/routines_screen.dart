@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 class RoutinesScreen extends StatelessWidget {
@@ -132,6 +131,7 @@ class RoutinesScreen extends StatelessWidget {
                     ),
                   ],
                 ),
+              
               ),
             ),
             SizedBox(height: 30),
@@ -215,6 +215,16 @@ class RoutinesScreen extends StatelessWidget {
                 ),
               ],
             ),
+            Padding(
+              padding: const EdgeInsets.only(left: 340),
+              child: Row(
+                children:[
+                  
+                  Icon(Icons.add_circle, size: 56, color: Color(0xFF003F74)),
+                  
+                ]
+              ),
+            )
           ],
         ),
       ),
